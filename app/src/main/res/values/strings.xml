@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShipGame</string>
+    <string name="name">Ship Game</string>
+    <string name="txtGame">Jugar</string>
+</resources>
